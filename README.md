@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-[aboutPage]()
+[aboutPage](assets/images/profile_pic.jfif)
 
 ## Included Pages
 
