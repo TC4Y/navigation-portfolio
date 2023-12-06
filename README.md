@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-[aboutPage](assets/images/profile_pic.jfif)
+[aboutPage](https://github.com/TC4Y/navigation-portfolio/blob/c1e48c9e05e01b42d8217dbe62796f1d0a256cde/assets/images/screenshots/AboutPageScreenshot.PNG)
 
 ## Included Pages
 
