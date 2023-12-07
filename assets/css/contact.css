@@ -18,3 +18,15 @@
     border-radius: 4%;
     cursor: pointer;
 }
+
+.contact-options-list{
+    text-align: left;
+}
+
+.contact-list-item{
+    margin-bottom: 12px;
+}
+
+.contact-email-icon{
+    margin-right: 20px;
+}

@@ -1,0 +1,71 @@
+.progress-bar-container h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eee;
+    letter-spacing: 1px;
+    font-size: 20px;
+ }
+ 
+ .progress-bar {
+    width: 400px;
+    height: 20px;
+    margin-top: 10px;
+    border: 1px solid #565656;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #6484fe;
+ }
+ 
+ .percentage {
+    display: block;
+    height: 100%;
+    background-color: #6484fe;
+    border-radius: 5px;
+    animation: progress 1500ms ease-in 1;
+ }
+ .skills{
+    margin-bottom: 20px;
+ }
+ 
+ .html {
+    width: 60%;
+ }
+
+ .css{
+    width: 50%;
+ }
+
+.js{
+    width: 75%;
+}
+
+.java{
+    width: 90%;
+    background-color: #12192c
+}
+
+.spring{
+    width: 80%;
+    background-color: #12192c
+}
+
+.python{
+    width: 75%;
+    background-color: #12192c
+}
+
+.java-progress-bar{
+    box-shadow: 0 0 10px #12192c;
+}
+.spring-progress-bar{
+    box-shadow: 0 0 10px #12192c;
+}
+.python-progress-bar{
+    box-shadow: 0 0 10px #12192c;
+}
+ 
+ /* Repeat for other languages */
+ 
+ @keyframes progress {
+    from {
+        width: 0;
+    }
+ }
